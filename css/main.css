@@ -54,16 +54,14 @@ nav a:hover {
   color: #fff;
 }
 
-@media only screen and (min-width: 25em) {
+@media only {screen and (min-width: 25em) }
 
   nav li {
     display: inline-block;
     text-align: center;
   }
 
-}
-
-@media only screen and (min-width: 38em) {
+@media only {screen and (min-width: 38em) }
 
   html {
     font-size: 110%;
@@ -72,7 +70,7 @@ nav a:hover {
 
 }
 
-@media only screen and (min-width: 60em) {
+@media only {screen and (min-width: 60em) }
 
   html {
     font-size: 120%;
@@ -98,7 +96,7 @@ nav a:hover {
 
 }
 
-@media only screen and (min-width: 90em) {
+@media only {screen and (min-width: 90em) }
   html {
     font-size: 130%;
   }
